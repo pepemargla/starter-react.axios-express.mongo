@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:pepemargla/starter-react.axios-express.mongo.git
+[submodule "server"]
+	path = server
+	url = git@github.com:pepemargla/starter-react.axios-express.mongo.git
